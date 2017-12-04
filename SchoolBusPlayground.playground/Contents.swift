@@ -32,4 +32,18 @@ PlaygroundPage.current.liveView = canvas
 
  ## A vous de jouer !
  */
+canvas.createRoadSection()
+canvas.createRoadSection()
+canvas.createRoadSection()
+canvas.createHomeRoadSection()
+canvas.createRoadSection()
+canvas.createSchoolRoadSection()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.stopBus()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.stopBus()
+
 
